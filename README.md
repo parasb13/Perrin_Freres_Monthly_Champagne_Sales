@@ -1,4 +1,4 @@
-# Perrin_Freres_Monthly_Champagne_Sales
+# Perrin_Freres_Monthly_Champagne_Sales_Dataset
 
 ## Overview
 The Perrin Freres Monthly Champagne Sales dataset contains historical sales data for champagne produced by Perrin Freres, a fictional champagne producer. The dataset includes monthly sales figures over a specific time period.
